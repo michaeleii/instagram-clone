@@ -1,0 +1,28 @@
+[
+    {
+        "id": "90bf10a3-c9fb-406a-a35a-3e4a8db0fbf8",
+        "description": "FSWD Student @BCIT",
+        "username": "michael123",
+        "realname": "Michael Lei",
+        "stats": {
+            "posts": 0,
+            "followers": 9999,
+            "following": 2
+        },
+        "profile": "profile.png",
+        "photos": []
+    },
+    {
+        "id": "cb506c7d-1c2f-4ce8-a56f-d45f16bf34cf",
+        "description": "Instructor at @BCIT",
+        "username": "armaan123",
+        "realname": "Armaan Dhanji",
+        "stats": {
+            "posts": 0,
+            "followers": 30,
+            "following": 30
+        },
+        "profile": "profile.jpeg",
+        "photos": []
+    }
+]
