@@ -41,4 +41,8 @@ http://localhost:3000
 
 ## Homepage
 
+![Homepage](images/home.jpg)
+
 ## User's Feed
+
+![User's Feed](images/feed.jpg)

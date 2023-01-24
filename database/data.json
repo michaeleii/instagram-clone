@@ -5,12 +5,15 @@
         "username": "michael123",
         "realname": "Michael Lei",
         "stats": {
-            "posts": 0,
+            "posts": 2,
             "followers": 9999,
             "following": 2
         },
         "profile": "profile.png",
-        "photos": []
+        "photos": [
+            "e399180d8745ede2f8608c400.jpg",
+            "5978cedc4840ec29c128ad800.jpg"
+        ]
     },
     {
         "id": "cb506c7d-1c2f-4ce8-a56f-d45f16bf34cf",
