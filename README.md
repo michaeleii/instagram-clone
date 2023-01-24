@@ -1,4 +1,4 @@
-# Instagram Clone
+# ![](https://skillicons.dev/icons?i=instagram) Instagram Clone
 
 ## Summary
 
